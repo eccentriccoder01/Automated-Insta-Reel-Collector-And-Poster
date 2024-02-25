@@ -102,9 +102,9 @@ def make_my_information() -> Panel:
 # Display the sponsor message
 def make_sponsor_message() -> Panel:
     sponsor_message = Table.grid(padding=0)
-    sponsor_message.add_column(style="green", justify="center")
-    sponsor_message.add_row("[blue] █▀█ █▀▀ █▀▀ █░░ █▀ ▄▄ ▄▀█ █░█ ▀█▀ █▀█ █▀█ █ █░░ █▀█ ▀█▀[/blue]")
-    sponsor_message.add_row("[blue] █▀▄ ██▄ ██▄ █▄▄ ▄█ ░░ █▀█ █▄█ ░█░ █▄█ █▀▀ █ █▄▄ █▄█ ░█░[/blue]")
+    sponsor_message.add_column(style="green", justify="center")    
+    sponsor_message.add_row("[blue]█▀▄▀█ ▀▄ ▄▀  █ █▄░█ █▀ ▀█▀ ▄▀█  ▄▀█ █▀ █▀ █ █▀ ▀█▀ ▄▀█ █▄░█ ▀█▀[/blue]")
+    sponsor_message.add_row("[blue]█ ▀ █   █    █ █░▀█ ▄█ ░█░ █▀█  █▀█ ▄█ ▄█ █ ▄█ ░█░ █▀█ █░▀█ ░█░[/blue]")
     sponsor_message.add_row("")
     sponsor_message.add_row("My Insta Assistant is a super-power GitHub repository designed to revolutionise your Instagram engagement. With its advanced scraping capabilities, My Insta Assistant scours through your favourite Instagram accounts and YouTube channels the latest reels and shorts for your Instagram feed. Stay effortlessly connected with the freshest content from your preferred creators while amplifying your Instagram presence❕")
     sponsor_message.add_row("")

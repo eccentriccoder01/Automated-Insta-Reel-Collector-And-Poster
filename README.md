@@ -29,7 +29,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/avnsh1111/Automated-Insta-Reel-Collector-And-Poster.git
+git clone https://github.com/eccentriccoder01/Automated-Insta-Reel-Collector-And-Poster
 cd Automated-Insta-Reel-Collector-And-Poster
 ```
 
